@@ -1,1 +1,1 @@
-# StickHeroClone
+# StackUp Clone
